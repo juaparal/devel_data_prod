@@ -7,3 +7,5 @@ Instructions to use are very simple:
 - Fill the variables on the left side and see the prediction result about Good or Bad credit risk.
 - Below the prediction, you have two rCharts as an example to filter the historic data by Age vs Duration or Amount.
 - At the end, the prediction tree is also displayed.
+
+Application dir.: https://juaparal.shinyapps.io/project_develdataprod/
