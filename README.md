@@ -1,5 +1,5 @@
 # Readme
-Developing Data Products project
+##Developing Data Products project
 
 This small Shiny application has been created for the coursera's course Developing Data Products project. Based on a dataset coming from Dr. Hans Hofmann of the University of Hamburg an Rpart tree has been employed as a prediction algorithm.
 
